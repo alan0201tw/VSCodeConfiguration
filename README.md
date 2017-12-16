@@ -1,4 +1,4 @@
-#VSCode Configuration
+# VSCode Configuration
 
 ".clang-format" file
 
