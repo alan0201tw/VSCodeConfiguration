@@ -9,5 +9,6 @@ BreakBeforeBraces: Allman
 ColumnLimit: 0
 IndentCaseLabels: false
 IndentWidth: 4
-SortIncludes: false
+SortIncludes: true
 TabWidth: 4
+SpaceBeforeParens: Never
